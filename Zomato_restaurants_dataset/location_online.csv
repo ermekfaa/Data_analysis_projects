@@ -1,0 +1,79 @@
+location,online_order,name
+BTM,No,1016
+BTM,Yes,2857
+Banashankari,No,273
+Banashankari,Yes,471
+Banaswadi,No,171
+Banaswadi,Yes,292
+Bannerghatta Road,No,396
+Bannerghatta Road,Yes,828
+Basavanagudi,No,183
+Basavanagudi,Yes,412
+Bellandur,No,331
+Bellandur,Yes,665
+Brigade Road,No,441
+Brigade Road,Yes,607
+Brookefield,No,159
+Brookefield,Yes,384
+Church Street,No,212
+Church Street,Yes,331
+Cunningham Road,No,156
+Cunningham Road,Yes,318
+Domlur,No,188
+Domlur,Yes,218
+Electronic City,No,364
+Electronic City,Yes,468
+Frazer Town,No,196
+Frazer Town,Yes,367
+HSR,No,334
+HSR,Yes,1658
+Indiranagar,No,539
+Indiranagar,Yes,1256
+JP Nagar,No,560
+JP Nagar,Yes,1150
+Jayanagar,No,402
+Jayanagar,Yes,1232
+Kalyan Nagar,No,245
+Kalyan Nagar,Yes,447
+Kammanahalli,No,159
+Kammanahalli,Yes,333
+Koramangala 1st Block,No,152
+Koramangala 1st Block,Yes,699
+Koramangala 4th Block,No,353
+Koramangala 4th Block,Yes,488
+Koramangala 5th Block,No,770
+Koramangala 5th Block,Yes,1525
+Koramangala 6th Block,No,408
+Koramangala 6th Block,Yes,644
+Koramangala 7th Block,No,313
+Koramangala 7th Block,Yes,740
+Lavelle Road,No,282
+Lavelle Road,Yes,194
+MG Road,No,436
+MG Road,Yes,356
+Malleshwaram,No,247
+Malleshwaram,Yes,394
+Marathahalli,No,446
+Marathahalli,Yes,961
+New BEL Road,No,157
+New BEL Road,Yes,349
+Old Airport Road,No,159
+Old Airport Road,Yes,194
+Rajajinagar,No,182
+Rajajinagar,Yes,279
+Residency Road,No,372
+Residency Road,Yes,229
+Richmond Road,No,378
+Richmond Road,Yes,225
+Sarjapur Road,No,199
+Sarjapur Road,Yes,653
+Shanti Nagar,No,173
+Shanti Nagar,Yes,193
+St. Marks Road,No,176
+St. Marks Road,Yes,167
+Ulsoor,No,296
+Ulsoor,Yes,547
+Whitefield,No,612
+Whitefield,Yes,956
+others,No,1708
+others,Yes,2959
