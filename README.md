@@ -2,4 +2,4 @@
 
 ### Datasets:
 
-https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
+Zomato_restaurants_dataset: https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
